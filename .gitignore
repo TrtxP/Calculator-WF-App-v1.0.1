@@ -1,7 +1,20 @@
+# Папки сборки
 Calculator/bin/
 Calculator/obj/
-Calculator/.vs/
+
+# Бинарные файлы и артефакты
 *.exe
 *.pdb
+
+# Пользовательские настройки среды
 *.user
 *.suo
+
+# Логи и временные файлы
+*.log
+*.cache
+*.tmp
+*.bak
+*.old
+Thumbs.db
+
