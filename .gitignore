@@ -1,0 +1,7 @@
+Calculator/bin/
+Calculator/obj/
+Calculator/.vs/
+*.exe
+*.pdb
+*.user
+*.suo
