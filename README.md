@@ -6,7 +6,8 @@
 - Other ussues are under further testing after opening this project.
 
 ## Requirings
-- Visual Studio 2022/2019 with supporting .NET v7.4 or later if it supported by default.
+
+Visual Studio 2022/2019 with supporting .NET v7.4 or later if it supported by default.
 
 ## License 
 
